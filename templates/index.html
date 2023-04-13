@@ -1,0 +1,33 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Smario | Mario using WebCam</title>
+  <script type="text/javascript" src="{{ url_for('static', filename = 'js/webcam.js') }}"></script>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      position: relative;
+    }
+
+    #my_camera {
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="my_camera"></div>
+  <audio id="mainTheme" muted>
+    <source src="{{ url_for('static', filename = 'audio/sfx_main_theme.ogg') }}" type="audio/ogg">
+  </audio>
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename = 'js/kaboom.js') }}"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename = 'js/game.js') }}"></script>
+</body>
+
+</html>
