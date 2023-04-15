@@ -1,3 +1,13 @@
+# How To Play This Game?
+1. Ensure you have a device with good system requirements so as to play the game smoothly.
+2. Download the repository code through the ZIP file
+3. Ensure you have Python and CMake (for opencv) installed (bhuv change this line to how you were able to play the game)
+4. Install all the packages of Python using the commmand `pip install -r requirements.txt`
+5. Run the flask app using the command `python3 app.py` or `python app.py` according to the Python version installed on your computer
+6. Allow the app to access your webcam
+7. MOST IMPORTANT STEP: Enjoy the game!
+<hr>
+
 # Inspiration
 The Pygames competition placed a special emphasis on retro aspect of the game, so we decided to do something around this theme. We brainstormed for ideas and came up with the concept of building a modern version of Mario. To add a unique twist, we decided to incorporate computer vision and machine learning to recognize hand gestures and allow players to control the game without touching the keyboard.
 
