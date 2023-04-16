@@ -1,7 +1,7 @@
 # How To Play This Game?
 1. Ensure you have a device with good system requirements so as to play the game smoothly.
 2. Download the repository code through the ZIP file
-3. Ensure you have Python and CMake (for opencv) installed (bhuv change this line to how you were able to play the game)
+3. Ensure you have Python installed on your machine
 4. Install all the packages of Python using the commmand `pip install -r requirements.txt`
 5. Run the flask app using the command `python3 app.py` or `python app.py` according to the Python version installed on your computer
 6. Allow the app to access your webcam
