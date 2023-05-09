@@ -1,3 +1,5 @@
+![header image](https://raw.githubusercontent.com/Bhuvneshn/GestureMario/master/static/images/header-image.png)
+
 # How To Play This Game?
 1. Ensure you have a device with good system requirements so as to play the game smoothly.
 2. Download the repository code through the ZIP file
