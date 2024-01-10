@@ -1,6 +1,6 @@
 ![header image](https://raw.githubusercontent.com/Bhuvneshn/GestureMario/master/static/images/header-image.png)
 
-# How To Play This Game? [Link to Guide](https://docs.google.com/presentation/d/1pGs21s0OYjqaqgqPX-CiCkQ7inDrPZ4BKOvIymumzKg/edit#slide=id.gf7a089d0b5_0_134)
+# How To Play This Game? [Link to Guide](https://docs.google.com/presentation/d/1pGs21s0OYjqaqgqPX-CiCkQ7inDrPZ4BKOvIymumzKg/edit?usp=sharing)
 1. Ensure you have a device with good system requirements so as to play the game smoothly.
 2. Download the repository code through the ZIP file
 3. Ensure you have Python installed on your machine
